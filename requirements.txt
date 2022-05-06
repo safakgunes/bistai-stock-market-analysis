@@ -1,0 +1,9 @@
+pandas
+numpy
+streamlit
+scikit-learn
+plotly
+requests
+sqlalchemy
+psycopg2
+tensorflow-cpu
